@@ -27,6 +27,12 @@ I am actively standing up against **geofencing restrictions and legacy banking b
 
 <a href="https://stackoverflow.com" target="_blank"><img src="https://shields.io" alt="Stack Overflow Profile"/></a>
 
+---
+
+### 🤝 Let's Collaborate!
+If you share the vision of an open internet, secure decentralized cryptography, and empowering regional developers against synthetic economic borders, let's join forces and build the tools to bypass the system.
+
+*“Coding to empower, researching to break boundaries.”* 🔥
 
 ---
 

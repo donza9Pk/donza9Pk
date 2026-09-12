@@ -25,9 +25,8 @@ I am actively standing up against **geofencing restrictions and legacy banking b
 ### 📊 Community Footprint
 - **Stack Exchange Veteran:** Active technical researcher for over **7+ years** across core computing, Bitcoin, and Computational Science networks.
 
-<a href="https://stackoverflow.com" target="_blank">
-  <img src="https://shields.io" alt="Stack Overflow Profile" />
-</a>
+<a href="https://stackoverflow.com" target="_blank"><img src="https://shields.io" alt="Stack Overflow Profile"/></a>
+
 
 ---
 

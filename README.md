@@ -35,8 +35,3 @@ If you share the vision of an open internet, secure decentralized cryptography, 
 *“Coding to empower, researching to break boundaries.”* 🔥
 
 ---
-
-### 🤝 Let's Collaborate!
-If you share the vision of an open internet, secure decentralized cryptography, and empowering regional developers against synthetic economic borders, let's join forces and build the tools to bypass the system.
-
-*“Coding to empower, researching to break boundaries.”* 🔥

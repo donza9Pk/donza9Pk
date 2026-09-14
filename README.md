@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Khan 👋 
+# Hi there, I'm Ahmed Khan (DK) 👋 
 ### 🚀 18+ Years Veteran Dev Researcher & Self-Taught Cryptography Expert
 
 A mission-driven, self-taught engineer fighting regional financial boundaries and geofencing restrictions. Over the last 18+ years, I have turned internet research and raw curiosity into hard technical skills, mastery over Web3 infrastructure, and deep cryptography domain knowledge.
